@@ -54,6 +54,7 @@ MessageBox(NULL, "Hello World! This is my first win32 program!",
 	"Lesson1", MB_OK);
 ```
 จะแสดง
+
 ![](https://github.com/patimakorn54/LAB-01/blob/master/imgs/Capture1.JPG?raw=true)
 
 ## คำถาม 
@@ -65,7 +66,13 @@ MessageBox(NULL, "Hello World! This is my first win32 program!",
 ```
 จากการทดลองในคำถาม
 ![](https://github.com/patimakorn54/LAB-01/blob/master/imgs/Capture2.JPG?raw=true)
+
+
+
 ![](https://github.com/patimakorn54/LAB-01/blob/master/imgs/Capture3.JPG?raw=true)
+
+
+
 ![](https://github.com/patimakorn54/LAB-01/blob/master/imgs/Capture4.JPG?raw=true)
 
 
